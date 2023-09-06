@@ -1,0 +1,4 @@
+-- import: fastn
+-- fastn.dependency: fastn-community.github.io/bling
+-- fastn.package: quotesComponent
+
